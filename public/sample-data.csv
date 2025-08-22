@@ -1,0 +1,8 @@
+date,patient,amount,claim_status
+2025-08-20,John Doe,1250,paid
+2025-08-19,Jane Roe,2400,paid
+2025-08-18,Rajesh Kumar,1800,denied
+2025-08-15,Asha Singh,900,paid
+2025-08-10,Sunil Mehta,450,paid
+2025-07-30,Priya Patel,3200,paid
+2025-07-25,Arjun Verma,2100,paid
